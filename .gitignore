@@ -1,0 +1,17 @@
+
+venv/
+__pycache__/
+
+# Generated Files
+.ipynb_checkpoints/*
+.ipynb_history/*
+
+# Python Bytecode Files
+.pyc
+
+# Cache and Temporary Files
+__pycache__/*
+.DS_Store
+
+# Windows Thumbcache File
+Thumbs.db
